@@ -82,11 +82,9 @@ I'm a full-stack developer and student actively solving real-world problems — 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rishu7011&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)](https://github.com/Rishu7011)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Rishu7011)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Rishu7011&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
