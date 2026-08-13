@@ -48,6 +48,7 @@ built_with_AI:
   - ✅ Python automation & scripting workflows
 
 currently_learning:
+  - ☕ DSA in Java (arrays, trees, graphs, dynamic programming)
   - 🔐 Cybersecurity fundamentals (networking, OWASP, ethical hacking basics)
   - ☁️  Cloud Architecture & DevOps
   - 🏗️  System Design & scalable backend patterns
