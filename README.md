@@ -1,115 +1,192 @@
 <div align="center">
 
-# Hey, I'm Rishabh Negi 👋
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:06b6d4&height=200&section=header&text=Rishabh%20Negi&fontSize=60&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Generative%20AI%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Generative+AI+Explorer;Java+%7C+Python+%7C+TypeScript;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishabh+%F0%9F%91%8B;Full-Stack+Developer+%7C+GenAI+Builder;Shipped+AI-powered+products+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Exploring+Cybersecurity+%F0%9F%94%90;Open+to+Internship+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-negi-877360286/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_rishunegi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishu7011)
-![Profile Views](https://komarev.com/ghpvc/?username=Rishu7011&color=6c63ff&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-Building at the intersection of **great UX**, **robust backends**, and **Generative AI**.
-I'm a full-stack developer and student actively solving real-world problems — one commit at a time.
-
-- 🤖 Exploring **Generative AI**, LLMs, RAG pipelines & AI-powered products
-- ☕ Strong foundation in **Java** — OOP, DSA, and backend systems
-- 🐍 **Python** for scripting, automation & ML workflows
-- 🔭 Currently building with **Next.js**, **TypeScript**, and **Node.js**
-- 💡 I believe clean code + great UX = products people actually use
-- 📍 Based in India
-- 💼 **Actively seeking internship opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🧠 Generative AI & ML
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🗄️ Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🌐 Web
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| **[Signalist](https://github.com/Rishu7011/Signalist)** | Real-time stock tracker with personalized price alerts and detailed company insights | `Next.js` `TypeScript` `Tailwind` | [🔗 Live](https://singliststocktrackerapp.vercel.app) |
-| **[ProConnect](https://github.com/Rishu7011/ProConnect)** | Professional networking platform for meaningful developer connections | `JavaScript` `Node.js` | — |
-| **[ConsentFlow](https://github.com/Rishu7011/ConsentFlow-)** | Consent management system with clean, reliable workflow handling | `Python` | — |
-| **[MovieInfoApp](https://github.com/Rishu7011/MovieInfoapp)** | Browse and explore detailed movie information with a sleek UI | `TypeScript` `React` | — |
-| **[Japanese Sushiman](https://github.com/Rishu7011/Japanese-Sushiman)** | Beautifully crafted restaurant landing page | `HTML` `CSS` | — |
-| **[CoreX](https://github.com/Rishu7011/CoreX)** | Core utilities and logic-focused JavaScript project | `JavaScript` | — |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=Rishu7011&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-negi-877360286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/its_rishunegi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://github.com/Rishu7011" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="mailto:rishabhnegi7011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rishu7011&color=6c63ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 💼 Open to Internship Opportunities
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Actively seeking **internship roles** in:
+## 🧑‍💻 About Me
 
-| Role | Skills |
-|------|--------|
-| 🌐 Full-Stack Development | `React` `Next.js` `Node.js` `TypeScript` |
-| 🤖 Generative AI / AI Engineering | `LLMs` `LangChain` `RAG` `Prompt Engineering` |
-| ☕ Java Backend Development | `Java` `OOP` `DSA` `REST APIs` |
-| 🐍 Python / ML Engineering | `Python` `Automation` `ML Workflows` |
+```yaml
+name       : Rishabh Negi
+location   : India 🇮🇳
+role       : Full-Stack Developer | Generative AI Builder
+status     : Open to Internship Opportunities 💼
 
-📩 Let's connect: [LinkedIn →](https://www.linkedin.com/in/rishabh-negi-877360286/)
+passion:
+  - Building at the intersection of great UX + robust backends + AI
+  - Shipped Generative AI products using LLMs & RAG pipelines
+  - Clean code × great design = products people love ❤️
 
-[![Hire Me](https://img.shields.io/badge/Open%20to%20Internships-Let's%20Talk-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-negi-877360286/)
+built_with_AI:
+  - ✅ Generative AI products (OpenAI, LLMs, RAG)
+  - ✅ Full-Stack web apps (Next.js, TypeScript, Node.js)
+  - ✅ Python automation & scripting workflows
+
+currently_learning:
+  - 🔐 Cybersecurity fundamentals (networking, OWASP, ethical hacking basics)
+  - ☁️  Cloud Architecture & DevOps
+  - 🏗️  System Design & scalable backend patterns
+
+fun_fact   : "I debug with console.log and I'm not ashamed 😄"
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**🎨 Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark)](https://skillicons.dev)
+
+**⚙️ Backend & Languages**
+
+[![Backend Skills](https://skillicons.dev/icons?i=java,python,nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
+
+**🧠 AI / ML & Cloud**
+
+[![AI Skills](https://skillicons.dev/icons?i=tensorflow,aws,vercel,docker,linux&theme=dark)](https://skillicons.dev)
+
+**🗄️ Databases & Tools**
+
+[![DB Skills](https://skillicons.dev/icons?i=mongodb,postgresql,redis,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6C63FF&icon_color=a855f7&text_color=c9d1d9" />
+<img width="49%" height="195" src="https://streak-stats.demolab.com?user=Rishu7011&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=a855f7&fire=06b6d4&currStreakLabel=6C63FF&sideLabels=c9d1d9&sideNums=c9d1d9" />
+
+</div>
+
+<div align="center">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=discord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Rishabh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishu7011&bg_color=0d1117&color=6C63FF&line=a855f7&point=06b6d4&area=true&hide_border=true&area_color=20232a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishu7011/Rishu7011/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishu7011/Rishu7011/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishu7011/Rishu7011/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | ⚡ Stack | 🔗 Links |
+|:----------:|:--------------|:--------:|:--------:|
+| **🔔 Signalist** | Real-time stock tracker with personalized price alerts & company insights | `Next.js` `TypeScript` `Tailwind` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Signalist) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://singliststocktrackerapp.vercel.app) |
+| **🤝 ProConnect** | Professional networking platform for meaningful developer connections | `JavaScript` `Node.js` `Express` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ProConnect) |
+| **📋 ConsentFlow** | Clean consent management system with reliable workflow handling | `Python` `FastAPI` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ConsentFlow-) |
+| **🎬 MovieInfoApp** | Browse & explore movie info with a sleek, responsive UI | `TypeScript` `React` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/MovieInfoapp) |
+| **🍣 Japanese Sushiman** | Beautifully crafted restaurant landing page with modern animations | `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Japanese-Sushiman) |
+| **⚙️ CoreX** | Core utilities & logic-focused JavaScript powerhouse | `JavaScript` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/CoreX) |
+
+</div>
+
+---
+
+## 💼 Open to Opportunities
+
+<div align="center">
+
+> 🚀 **Actively seeking Internship Roles** — available to join immediately!
+
+| 🎯 Role | 🛠️ Core Skills |
+|:-------:|:--------------|
+| 🌐 **Full-Stack Developer** | React · Next.js · Node.js · TypeScript · REST APIs |
+| 🤖 **Generative AI Engineer** | LLMs · RAG Pipelines · Prompt Engineering · OpenAI API |
+| 🐍 **Python / Backend Engineer** | Python · FastAPI · Automation · ML Workflows |
+| 🔐 **Cybersecurity (Learning)** | Networking Basics · OWASP · Ethical Hacking Fundamentals |
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-negi-877360286/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhnegi7011@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6C63FF&height=120&section=footer&animation=fadeIn" />
 
-*"First, solve the problem. Then, write the code."*
+**"First, solve the problem. Then, write the code."** — *John Johnson*
+
+⭐ **If you find my work interesting, drop a star on my repos!** ⭐
 
 </div>
