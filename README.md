@@ -96,13 +96,16 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu7011&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishu7011&theme=tokyonight" width="100%" />
 
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishu7011&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishu7011&theme=tokyonight" height="180em" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu7011&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -111,7 +114,9 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" alt="Rishu7011 trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=tokyonight&column=7" alt="trophies" />
+
+</div>
 
 </div>
 
