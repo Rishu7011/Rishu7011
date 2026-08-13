@@ -190,20 +190,6 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-## 🔧 One-Time Setup for Snake Animation
-
-<details>
-<summary><b>Click to enable the 🐍 snake animation (takes 2 minutes)</b></summary>
-
-1. Go to your repo → **[Settings → Actions → General](https://github.com/Rishu7011/Rishu7011/settings/actions)**
-2. Scroll to **Workflow permissions** → select **"Read and write permissions"** → **Save**
-3. Go to **[Actions tab](https://github.com/Rishu7011/Rishu7011/actions)** → click **"🐍 Generate Snake Animation"** → **"Run workflow"**
-4. Wait ~2 minutes, then the snake replaces the placeholder automatically! 🎉
-
-</details>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6C63FF&height=120&section=footer&animation=fadeIn" />
