@@ -87,13 +87,13 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6C63FF&icon_color=a855f7&text_color=c9d1d9" />
-<img width="49%" height="195" src="https://streak-stats.demolab.com?user=Rishu7011&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=a855f7&fire=06b6d4&currStreakLabel=6C63FF&sideLabels=c9d1d9&sideNums=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu7011&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=discord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
