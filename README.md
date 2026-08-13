@@ -80,6 +80,14 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 [![DB Skills](https://skillicons.dev/icons?i=mongodb,postgresql,redis,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
+**🧬 Vector Databases (AI / RAG)**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00BFFF?style=for-the-badge&logo=weaviate&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white)
+
 </div>
 
 ---
@@ -88,13 +96,13 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishu7011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu7011&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu7011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
 </div>
 
 ---
@@ -103,7 +111,7 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Rishu7011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" alt="Rishu7011 trophies" />
 
 </div>
 
@@ -179,6 +187,20 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+---
+
+## 🔧 One-Time Setup for Snake Animation
+
+<details>
+<summary><b>Click to enable the 🐍 snake animation (takes 2 minutes)</b></summary>
+
+1. Go to your repo → **[Settings → Actions → General](https://github.com/Rishu7011/Rishu7011/settings/actions)**
+2. Scroll to **Workflow permissions** → select **"Read and write permissions"** → **Save**
+3. Go to **[Actions tab](https://github.com/Rishu7011/Rishu7011/actions)** → click **"🐍 Generate Snake Animation"** → **"Run workflow"**
+4. Wait ~2 minutes, then the snake replaces the placeholder automatically! 🎉
+
+</details>
 
 ---
 
