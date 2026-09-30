@@ -152,7 +152,7 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 | 🏗️ Project | 📝 Description | ⚡ Stack | 🔗 Links |
 |:----------:|:--------------|:--------:|:--------:|
-| **🔔 Signalist** | Real-time stock tracker with personalized price alerts & company insights | `Next.js` `TypeScript` `Tailwind` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Signalist) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://singliststocktrackerapp.vercel.app) |
+| **🔔 Signalist** | Real-time stock tracker with personalized price alerts & company insights | `Next.js` `TypeScript` `Tailwind` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Signalist) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)]([https://singliststocktrackerapp.vercel.app](https://signalist-pwiql0hez-negirishabh7011-8052s-projects.vercel.app)) |
 | **🤝 ProConnect** | Professional networking platform for meaningful developer connections | `JavaScript` `Node.js` `Express` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ProConnect) |
 | **📋 ConsentFlow** | Clean consent management system with reliable workflow handling | `Python` `FastAPI` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ConsentFlow-) |
 | **🎬 MovieInfoApp** | Browse & explore movie info with a sleek, responsive UI | `TypeScript` `React` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/MovieInfoapp) |
