@@ -156,7 +156,7 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 | **🤝 ProConnect** | Professional networking platform for meaningful developer connections | `JavaScript` `Node.js` `Express` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ProConnect) |
 | **📋 ConsentFlow** | Clean consent management system with reliable workflow handling | `Python` `FastAPI` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/ConsentFlow-) |
 | **🎬 MovieInfoApp** | Browse & explore movie info with a sleek, responsive UI | `TypeScript` `React` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/MovieInfoapp) |
-| **🍣 Japanese Sushiman** | Beautifully crafted restaurant landing page with modern animations | `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Japanese-Sushiman) |
+| **🍣 Japanese Sushiman** | Beautifully crafted restaurant landing page with modern animations | `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/Japanese-Sushiman)[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://japanese-sushiman.vercel.app) |
 | **⚙️ CoreX** | Core utilities & logic-focused JavaScript powerhouse | `JavaScript` | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Rishu7011/CoreX) |
 
 </div>
